@@ -1,10 +1,10 @@
 메인 브렌치 수정
-bbbbbbbbbbbb
+변경 사항
 fgggg
 ldldlld
 
 app content 1
-new cat cat
+new new  old
 rebase practice
 
 app nope
